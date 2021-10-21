@@ -1,1 +1,2 @@
 spring props file added
+server.port=8080
